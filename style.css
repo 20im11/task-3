@@ -1,0 +1,99 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+header {
+    display:flex;
+}
+.ford-logo {
+    width:180px;
+    height:96px;
+    margin-left:130px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-top:0px;
+}
+ul,ol,li {
+    list-style-type: none;
+    padding:0px;
+    display:inline-block;
+    margin-left:200px;
+    margin-top:17px;
+}
+nav,
+.nav-item,
+.nav-item2,
+.nav-item3 {
+    display:inline-block;
+    list-style-type:none;
+}
+a {
+    text-decoration:none;
+}
+.active-page {
+    color:#F50808;
+}
+.pg1 {
+    color:#17326E;
+    margin-left:130px;
+}
+.ppg1 {
+    color:#090346;
+    margin-left:130px;
+}
+.welcoming {
+    font-size: larger;
+}
+section {
+    width:1440px;
+    height:439px;
+    background-color:#EBEBF0;
+}
+.fc {
+    margin-left:130px;
+    margin-top:121px;
+    margin-right:20px;
+}
+.fc2 {
+    margin-top:121px;
+    margin-right:20px;
+}
+footer {
+    width:1440px;
+    height:161px;
+    background-color:#19126B;
+    display:flex;
+}
+.fbpng {
+    margin-top:45px;
+    margin-left:100px;
+    margin-bottom:51px;
+}
+.insta {
+    margin-left:15px;
+    margin-bottom:58px;
+    margin-top:27px;
+}
+.ytpng {
+    margin-left:30px;
+    margin-top:55px;
+}
+.cprg {
+    color:#FFFFFF;
+    margin-top:67px;
+    margin-left:850px;
+}
+.about {
+    margin-left:131px;
+    color:#19126B;
+}
+.aboutus {
+    margin-left:131px;
+    color:#090346;
+}
+.history {
+    width:1440px;
+    height:516px;
+    background-color:#EBEBF0;
+    display:inline-block;
+}
+
