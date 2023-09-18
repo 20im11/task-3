@@ -82,9 +82,8 @@ footer {
     margin-top:67px;
     margin-left:850px;
 }
-.about {
+.habout {
     margin-left:131px;
-    color:#19126B;
 }
 .aboutus {
     margin-left:131px;
@@ -96,4 +95,48 @@ footer {
     background-color:#EBEBF0;
     display:inline-block;
 }
-
+.fordcar {
+    margin-left:550px;
+    margin-top:0px;
+    width:300px;
+    height:200px;
+}
+.mainhistory {
+    display:inline-block;
+    margin-left:130px
+}
+.ourhistory {
+    margin-left:130px;
+}
+.forcontact {
+    margin-top:120px;
+    margin-left:130px;
+    color:#19126B;
+}
+.pforcontact {
+    color:#090346;
+    margin-left:130px;
+}
+.info {
+    width:1440px;
+    height:546px;
+    background-color:#EBEBF0;
+}
+.map {
+    margin-left:900px;
+    width:400px;
+    height:150px;
+    margin-top:80px;
+    display:inline-block;
+}
+.formap {
+    display:flex;
+}
+.contact-info {
+    color:#19126B;
+    margin-left:131px;
+}
+.foraddress {
+    color:#0D69A9;
+    margin-left:131px;
+}
